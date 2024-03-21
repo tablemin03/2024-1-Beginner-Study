@@ -11,7 +11,7 @@
 * 코드 리뷰
 * GitHub Projects로 프로젝트 업무 관리
 * Github Actions로 CI/CD
-* 자세한 내용은 docs.github.com
+* 자세한 내용은 <docs.github.com>
 
 
 # Git 최초 설정
