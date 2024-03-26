@@ -78,4 +78,4 @@
 
 	$ git push origin main
 
-<https://github.com/tablemin03/2024-1-Beginner-Study.git>
+<https://github.com/tablemin03/tablemin03/tree/main/tablemin03>
