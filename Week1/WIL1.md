@@ -79,4 +79,4 @@
 
 	$ git push origin main
 
-<https://github.com/tablemin03/tablemin03/tree/main/tablemin03>
+<https://github.com/tablemin03/tablemin03>
